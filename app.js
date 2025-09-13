@@ -68,3 +68,14 @@
 // console.log(output);
 
 // ------------------------------------->>
+// const friends = ["hero", "SRK", "PW", "ARS"];
+
+// const person = {
+//   name: "Rimpa",
+//   age: 10,
+//   friends: friends,
+// };
+
+// person.name = "Hero Alom";
+
+// console.log(person.name);
