@@ -57,3 +57,11 @@ const newData = {
 
 const newArray = [...products, newData];
 console.log(newArray);
+
+const remainingProducts = products.filter((p) => p.brand !== "xiaomi");
+console.log(remainingProducts);
+
+const newArray2 = [...remainingProducts, newData];
+console.log(newArray2);
+
+// ---------------------------------------------------->
