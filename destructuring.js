@@ -11,3 +11,12 @@
 // console.log(element1, element2, element3);
 
 // --------------------------------------------------->
+
+// another example of array destructuring   ##
+
+// const friends = ["hero", "heroine", "Juni"];
+
+// const [element1, element2, element3] = friends;
+
+// console.log(element1, element2, element3);
+// --------------------------------------------------->
