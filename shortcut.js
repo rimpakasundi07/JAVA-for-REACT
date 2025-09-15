@@ -40,6 +40,6 @@
 // +num;
 // console.log(+num);
 // ---------------------------------->>>>>>>>>
-let num = "10";
-const result = 10 + "";
-console.log(typeof result);
+// let num = "10";
+// const result = 10 + "";
+// console.log(typeof result);
