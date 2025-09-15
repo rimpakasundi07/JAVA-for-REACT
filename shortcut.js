@@ -27,9 +27,19 @@
 
 // ----------------------------------------------
 
-const isActive = true;
-const showUser = () => console.log("show user green");
-const hideUser = () => console.log("hide user");
+// const isActive = true;
+// const showUser = () => console.log("show user green");
+// const hideUser = () => console.log("hide user");
 // . isActive ? showUser() : hideUser();
-isActive && showUser();
+// isActive && showUser();
 // .isActive || showUser();
+
+// /-------------------------------------------------------------------------------------
+
+// let num = "10";
+// +num;
+// console.log(+num);
+// ---------------------------------->>>>>>>>>
+let num = "10";
+const result = 10 + "";
+console.log(typeof result);
